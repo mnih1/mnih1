@@ -2,3 +2,4 @@
 - 👀 I’m interested front-end development
 - ✨ I know HTML, CSS, SCSS, SASS, JavaScript
 - 🌱 I’m currently learning PHP
+- 🌱 I want learn: REACT, next.js, angular, TypeScript
