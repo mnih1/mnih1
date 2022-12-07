@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mnih1
 - 👀 I’m interested front-end development
-- ✨ I know HTML, CSS, SCSS, SASS
-- 🌱 I’m currently learning JavaScript
+- ✨ I know HTML, CSS, SCSS, SASS, JavaScript
+- 🌱 I’m currently learning PHP
