@@ -3,3 +3,4 @@
 - ✨ I know HTML, CSS, SCSS, SASS, JavaScript
 - 🌱 I’m currently learning PHP, Vue (starting)
 - 🌱 I want learn: REACT, next.js, TypeScript, angular
+- ✨ Liblary I know: AOS
