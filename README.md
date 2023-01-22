@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnih1
 - 👀 I’m interested front-end development
 - ✨ I know HTML, CSS, SCSS, SASS, JavaScript, MySql, SQL
-- 🌱 I’m currently learning PHP, Vue (starting)
+- 🌱 I’m currently learning PHP (good knowledge), Vue (starting)
 - 🌱 I want learn: REACT, next.js, TypeScript, angular
-- ✨ Liblary I know: AOS
+- ✨ Liblary I know: AOS, Bootstrap
