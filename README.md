@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <h2>I am Frontend Web Developer</h2>
-- 🌱 I’m currently learning Laravel (starting), Vue (starting), PHP (good knowledge)
+- 🌱 I’m currently learning Laravel (starting), Vue (starting), PHP (good knowledge) <br>
 - 🌱 I want learn: REACT, next.js, TypeScript, Angular
 <br><br>
 <hr>
