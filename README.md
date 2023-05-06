@@ -8,8 +8,9 @@
 <br><br>
 <hr>
 <b> About: </b>
-<br>
+<br><br>
 I’m Michał and I’m from Poland. In the future I will be Frontend Web Developer, who wants to start make projects to first customers. I like working with people and I'm open to suggestions. I have been learning Web Development for about 5 years. I’m learning Vue.js and PHP with Laravel, also I want to learn React.js, TypeScript. I speak Polish and English.
+<br>
 <hr>
 <br><br>
 <b>My website</b>
