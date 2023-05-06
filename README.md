@@ -21,5 +21,5 @@ I’m Michał and I’m from Poland. In the future I will be Frontend Web Develo
 <b>Languages and Tools:</b>
 <br><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,php,sass,vscode,vue,js,html,bootstrap,css,mysql,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,github,php,sass,vscode,vue,js,html,bootstrap,css,mysql,laravel,figma" />
 </p>
