@@ -2,6 +2,9 @@
 <a href="mailto:mnih.contact@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/micha%C5%82-faber-b7894b276/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <h2>I am Frontend Web Developer</h2>
 - 🌱 I’m currently learning Laravel (starting), Vue (starting), PHP (good knowledge) <br>
 - 🌱 I want learn: REACT, next.js, TypeScript, Angular
