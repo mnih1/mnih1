@@ -14,6 +14,8 @@
 <br><br>
 Young and ambitious Web Developer from Poland. My name is Michał and for the past 5 years, I have been learning and developing my skills to become a web developer. I want to start making websites for customers. I am communicative, creative and always ready for new challenges. Currently, I am learning Vue.js and Laravel and I also plan to learn React.js and TypeScript. I speak Polish and English.
 <br>
+Visit my website to see more about me and my projects.
+<br>
 <hr>
 <br><br>
 <b>My website</b>
