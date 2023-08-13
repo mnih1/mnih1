@@ -12,7 +12,7 @@
 <hr>
 <b> About: </b>
 <br><br>
-I’m Michał and I’m from Poland. In the future I will be Frontend Web Developer, who wants to start make projects to first customers. I like working with people and I'm open to suggestions. I have been learning Web Development for about 5 years. I’m learning Vue.js and PHP with Laravel, also I want to learn React.js, TypeScript. I speak Polish and English.
+Young and ambitious Web Developer from Poland. My name is Michał and for the past 5 years, I have been learning and developing my skills to become a web developer. I want to start making websites for customers. I am communicative, creative and always ready for new challenges. Currently, I am learning Vue.js and Laravel and I also plan to learn React.js and TypeScript. I speak Polish and English.
 <br>
 <hr>
 <br><br>
