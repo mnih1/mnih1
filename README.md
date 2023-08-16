@@ -1,5 +1,5 @@
 <h1>Hi! I'm Michał aka MNIH!</h1>
-<a href="mailto:mnih.contact@gmail.com">
+<a href="mailto:contact.mnih@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/micha%C5%82-faber-b7894b276/">
