@@ -20,7 +20,7 @@ Visit my website to see more about me and my projects.
 <br><br>
 <b>My website</b>
 <br><br>
-<a href="https://michalfaber.com/" target="_blank">
+<a href="https://michalfaber.com/">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <br><br><br><br>
